@@ -13,6 +13,7 @@ FoodApp is a full-stack web application developed using the MERN (MongoDB, Expre
   - [Installation](#installation)
 - [Usage](#usage)
 - [Testing](#testing)
+- [Project Report](#ProjectReport)
 
 ## Getting Started
 
@@ -84,6 +85,6 @@ Explore the app and enjoy your food ordering experience!
 
 For detailed information about testing the backend routes, please refer to our [Postman Documentation](https://documenter.getpostman.com/view/28037604/2s9YXfa2v4).
 
-## Project Report
+## ProjectReport
 
 For a detailed review and analysis of our project, please check our [Final Project Report](REVIEW-3.pdf).
