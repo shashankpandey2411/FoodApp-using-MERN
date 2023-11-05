@@ -28,7 +28,7 @@ Before you can run the FoodApp, you need to have the following software and tool
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone [https://github.com/yourusername/foodapp.git](https://github.com/shashankpandey2411/FoodApp-using-MERN.git)
+   git clone [https://github.com/shashankpandey2411/FoodApp-using-MERN.git]
    cd foodapp
    ```
 
