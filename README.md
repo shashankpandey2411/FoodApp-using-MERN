@@ -1,6 +1,11 @@
 # FoodApp (MERN Stack)
 
-FoodApp is a full-stack web application developed using the MERN (MongoDB, Express.js, React, Node.js) stack. It allows users to browse, search, and order food online.
+FoodApp is a full-stack web application developed using the MERN (MongoDB, Express.js, React, Node.js) stack. This project serves as a robust example of a NoSQL database-driven application with MongoDB at its core. The application allows users to browse, search, and order food online, and it leverages MongoDB for efficient data storage and retrieval.
+
+## Database Schema
+
+![Database Schema](![image](https://github.com/shashankpandey2411/FoodApp-using-MERN/assets/84517279/6513b542-b61e-48ff-9290-da6de50df81e)
+)
 
 ## Table of Contents
 - [Getting Started](#getting-started)
