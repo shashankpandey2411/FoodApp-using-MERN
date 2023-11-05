@@ -4,8 +4,8 @@ FoodApp is a full-stack web application developed using the MERN (MongoDB, Expre
 
 ## Database Schema
 
-![Database Schema](![image](https://github.com/shashankpandey2411/FoodApp-using-MERN/assets/84517279/6513b542-b61e-48ff-9290-da6de50df81e)
-)
+![Database Schema](https://github.com/shashankpandey2411/FoodApp-using-MERN/assets/84517279/6513b542-b61e-48ff-9290-da6de50df81e)
+
 
 ## Table of Contents
 - [Getting Started](#getting-started)
